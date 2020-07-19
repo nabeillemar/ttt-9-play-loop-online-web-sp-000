@@ -37,5 +37,6 @@ end
 
 # Define your play method below
 def play(board)
-  play 
+  play = 1
+  
 end
